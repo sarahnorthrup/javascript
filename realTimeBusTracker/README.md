@@ -1,7 +1,7 @@
 # RealTimeBusTracker
 
 ## Description
-This program maps out The Boston area and real time bus routes.
+This program maps out The Boston area and real time bus routes. This updates every 15 seconds to show an acccurate account of data. 
 ## How to Run
 Open the index.html file in your browser with the connected files
 
